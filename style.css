@@ -1,0 +1,11 @@
+p {
+    color: #ac1666;
+}
+
+h1 ,h3 {
+    background-color: aqua;
+}
+
+h1 + h3 {
+    color: #ed4d12;
+}
